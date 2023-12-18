@@ -1,4 +1,4 @@
-const APP_ID = '917b360c9e934952ac374967ec750ffd'
+const APP_ID = 'Your APP ID'
 const CHANNEL = sessionStorage.getItem('room')
 const TOKEN = sessionStorage.getItem('token')
 let UID  = Number(sessionStorage.getItem('UID'));
